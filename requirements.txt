@@ -1,4 +1,8 @@
-ultralytics
+ultralytics==8.3.15
 opencv-python
 numpy
-pandas
+matplotlib
+torch
+torchvision
+torchaudio
+pytest
