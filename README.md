@@ -101,5 +101,12 @@ results/
 
 
 
+![vehicle_detection_sample jpg](https://github.com/user-attachments/assets/d905315c-d602-4aef-9ffa-04786beffe6c)
+
+
+
+
+
+
 
 
